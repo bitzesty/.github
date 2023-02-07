@@ -6,7 +6,7 @@
 
 * 
 
-## 🚀 Deployment implications
+## :shipit: Deployment implications
 
 * 
 
