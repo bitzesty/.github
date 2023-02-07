@@ -1,6 +1,9 @@
-# 📝 A short description of the changes
+## 📝 A short description of the changes
 
 * 
+
+### 🖼️ Screenshots (if appropriate):
+
 
 ## 🔗 Link to the relevant story (or stories)
 
