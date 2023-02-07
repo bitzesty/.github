@@ -2,7 +2,7 @@
 
 * 
 
-### 🖼️ Screenshots (if appropriate):
+### 🖼️ Screenshots (if appropriate - no PII/Prod data):
 
 
 ## 🔗 Link to the relevant story (or stories)
