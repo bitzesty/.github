@@ -2,9 +2,6 @@
 
 * 
 
-### 🖼️ Screenshots (if appropriate - no PII/Prod data):
-
-
 ## 🔗 Link to the relevant story (or stories)
 
 * 
@@ -22,4 +19,6 @@
 - [ ] I have made corresponding changes to the documentation
 - [ ] I have added tests that prove my fix is effective or that my feature works
 - [ ] I have squashed any unnecessary or part-finished commits
-- [ ] I have attached screenshots of visual changes
+
+## 🖼️ Screenshots (if appropriate - no PII/Prod data):
+
