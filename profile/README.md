@@ -30,3 +30,10 @@ We collaborate with:
 - **UK Government** 🏛️
 - **Charities** 🎗️
 
+## 🌐 Connect With Us
+
+- **Website:** [bitzesty.com](https://bitzesty.com)
+- **Email:** [info@bitzesty.com](mailto:info@bitzesty.com)
+- **Twitter:** [@bitzesty](https://twitter.com/bitzesty)
+- **LinkedIn:** [Bit Zesty on LinkedIn](https://www.linkedin.com/company/bit-zesty-ltd)
+
