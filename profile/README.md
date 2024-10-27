@@ -12,7 +12,7 @@ We're experts in:
 - **Ruby** 💎
 - **JavaScript** ☕
 - **Elixir** ⚗️
-- **Phoenix** 🦄
+- **Phoenix** 🐦‍🔥
 - **React Native** 📱
 
 ## ❤️ Passionate About
